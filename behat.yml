@@ -3,5 +3,5 @@ default:
     Behat\MinkExtension\Extension:
       base_url:  'http://www2.camara.leg.br/'
       goutte:    ~
-      sahi: ~
-      browser_name: 'chrome'
+      selenium2: ~
+      browser_name: 'firefox'
